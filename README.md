@@ -1,12 +1,18 @@
 # WRDS Stock Analysis Project
 
+## Overview
+This project analyzes stock return and risk using WRDS CRSP data. 
+The goal is to help beginner investors understand the relationship between risk and return and how diversification reduces risk.
+
+## Problem
+Many beginner investors do not clearly understand how risk relates to return or how diversification works in practice.
+
+## Target Users
+- Beginner investors
+- Finance students
+- Python learners in finance
 ##  Demo Video
 https://youtu.be/YoNmVEBCYII
-
----
-
-##  Project Overview
-This project analyzes stock return and risk using WRDS (CRSP) data.The goal is to help beginner investors understand the relationship between risk and return, and how diversification can reduce portfolio risk.
 
 ---
 
@@ -32,11 +38,6 @@ WRDS (CRSP database)
 ## Problem
 Many beginner investors do not clearly understand how risk relates to return, or how diversification affects portfolio performance.
 
-## Target Users
-- Beginner investors
-- Finance students
-- People learning Python for financial analysis
----
 
 ##  How to Run
 Open notebook.ipynb and run all cells.
