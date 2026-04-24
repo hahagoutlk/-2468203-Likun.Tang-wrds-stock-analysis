@@ -1,21 +1,21 @@
 # WRDS Stock Analysis Project
 
-## 🎥 Demo Video
+##  Demo Video
 （这里放你的视频链接）
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 This project analyzes stock return and risk using WRDS (CRSP) data.
 
 ---
 
-## 📁 Data Source
+##  Data Source
 WRDS (CRSP database)
 
 ---
 
-## ⚙️ Methods
+##  Methods
 - Data cleaning using pandas
 - Return and risk calculation
 - Risk classification
@@ -24,18 +24,18 @@ WRDS (CRSP database)
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 - Risk and return are not perfectly correlated
 - High risk increases volatility
 - Diversification reduces risk
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 Open notebook.ipynb and run all cells.
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 - Limited data period
 - No macro factors included
